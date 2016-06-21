@@ -1,0 +1,198 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  font-size: 40px;
+  letter-spacing: 2px;
+  margin-top: 0;
+  padding: 60px 0 15px 0;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+
+/* navigation menu */
+
+nav
+{
+	background-color:#1295C9;
+	position:fixed;
+	opacity: .90;
+	top:0;
+	left:0;
+	width:100%;
+}
+nav ul
+ {
+	float:right;
+	margin:0px;
+	padding:10px 0px;
+}
+nav li
+{
+	color:#fff;
+	display:inline;
+	font-size:18px;
+	font-weight:600;
+	padding-right:18px;
+	text-transform:uppercase;
+}
+nav a{
+	text-decoration:none;
+	color:#fff;
+}
+
+
+/* jumbotron */
+
+.jumbotron {
+	background:url("https://blog-content.glassdoor.com/app/uploads/sites/2/job-seeker-sign.jpg")no-repeat;
+	background-size:cover;
+	height:650px;
+}
+
+.main
+{
+	position:relative;
+	text-align:center;
+	top:280px;
+}
+.main .btn {
+	background-color: #1295C9;
+	color: #fff;
+	font-size: 22px;
+	text-decoration: none;
+	transition: background .3s;
+	padding: 15px 40px;
+}
+.main .btn:hover {
+  background: #000;
+  
+}
+
+
+/* about me */
+
+.about .Education .contact {
+	background:url("http://static.facegfx.com/2012/good-gorgeous-backgrounds-02-hd-pictures_594957546.jpg")no-repeat;
+	background-size:cover;
+	height:500px;
+}
+
+
+
+.about .container {
+  padding: 6px 0;
+}
+
+.about {
+  background-color: #fff;
+}
+
+.about h2 {
+  color: #264d7e;
+  
+}
+
+.about h4 {
+  color: #264d7e;
+}
+
+.about p {
+  color: #333;
+  font-size:17px;
+}
+
+.about img {
+  border-radius: 15%;
+  float: left;
+  margin: 50px 40px;
+  }
+.about img-circle {
+    border-radius: 50%;
+}
+  
+.about-text {
+  margin: 0;
+  overflow: hidden;
+  padding: 0 10px;
+}
+
+/* EDUCATION*/
+
+.Education{
+	text-align:center;
+}
+
+.Education h2 {
+	margin-top: 30;
+	color: #264d7e;
+}
+
+.Education p {
+  font-size:17px;
+}
+
+
+
+
+
+
+
+/* contact */
+
+.contact {
+  background-color: #fff;
+  padding-bottom: 20px;
+}
+
+.contact .container {
+  text-align: center;
+}
+
+.contact h2 {
+  margin-top: 30;
+  color: #264d7e;
+}
+
+.contact a {
+  background-color: #fff;
+  color: #333;
+  display:inline-block;
+  margin: 20px;
+  padding: 20px;
+  text-decoration: none;
+  
+  width: 50px;
+}
+
+.contact a:hover {
+  transform: scale(1.1);
+  color: #d99679;
+}
+
+
+
+
+/* footer */
+
+footer {
+  background-color: #1295C9;
+  padding-top:10px;
+}
+
+
+footer p {
+  color: #fff;
+  margin: 0;
+  padding-bottom: 20px;
+  text-align:center
+}
