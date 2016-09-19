@@ -1,0 +1,103 @@
+
+
+body
+{
+	font-family: "Verdana",Georgia,Times New Roman, Serif;
+}
+
+
+
+.image img
+{
+width:350px;
+height:350px;	
+}
+
+.about
+{
+	background:url("images/about.png")no-repeat;
+	background-size:cover auto;
+	height:auto;
+	opacity:.8px;
+	text-align:center;
+	color:#ffffff;
+	font-size:16px;
+}
+h3
+{
+	color:#000000;
+}
+
+
+span h2
+{
+	text-align:center;
+	vertical-align:middle;
+	background-color:#F5DEB3;
+	height:40px;
+	line-height: normal; 
+	
+}
+
+
+section p{
+	text-align:center;
+	font-size:16px;
+	color:#ffffff;
+	
+}
+.edudetails section
+{
+	background:url("images/edu.png")no-repeat;
+	background-size:cover auto;
+	height:auto;
+	opacity:.10px;
+}
+
+
+
+.contact a 
+{
+  color: #9f9e99;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  transform: scale(1.1);
+  color: #DB6A50;
+}
+
+
+
+
+
+.footer h3
+{
+	text-align:center;
+	background-color:#F5DEB3;
+	height:auto;
+	line-height: normal;
+	color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
