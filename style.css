@@ -1,198 +1,96 @@
-html,
-body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Raleway', sans-serif;
-}
-
-h2 {
-  font-size: 40px;
-  letter-spacing: 2px;
-  margin-top: 0;
-  padding: 60px 0 15px 0;
-}
-
-.container {
-  max-width: 940px;
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
-
-/* navigation menu */
-
-nav
+body
 {
-	background-color:#1295C9;
-	position:fixed;
-	opacity: .90;
-	top:0;
-	left:0;
-	width:100%;
+	font-family: "Verdana",Georgia,Times New Roman, Serif;
 }
-nav ul
- {
-	float:right;
-	margin:0px;
-	padding:10px 0px;
-}
-nav li
+
+
+
+.image img
 {
-	color:#fff;
-	display:inline;
-	font-size:18px;
-	font-weight:600;
-	padding-right:18px;
-	text-transform:uppercase;
-}
-nav a{
-	text-decoration:none;
-	color:#fff;
+width:350px;
+height:350px;	
 }
 
-
-/* jumbotron */
-
-.jumbotron {
-	background:url("https://blog-content.glassdoor.com/app/uploads/sites/2/job-seeker-sign.jpg")no-repeat;
-	background-size:cover;
-	height:650px;
-}
-
-.main
+.about
 {
-	position:relative;
+	background:url("https://drive.google.com/file/d/0BwbRmlLGUgQhSlFTQUVRVXYzNG8/view?usp=sharing")no-repeat;
+	background-size:cover auto;
+	height:auto;
+	opacity:.8px;
 	text-align:center;
-	top:280px;
+	color:#ffffff;
+	font-size:16px;
 }
-.main .btn {
-	background-color: #1295C9;
-	color: #fff;
-	font-size: 22px;
-	text-decoration: none;
-	transition: background .3s;
-	padding: 15px 40px;
-}
-.main .btn:hover {
-  background: #000;
-  
+h3
+{
+	color:#000000;
 }
 
 
-/* about me */
-
-.about .Education .contact {
-	background:url("http://static.facegfx.com/2012/good-gorgeous-backgrounds-02-hd-pictures_594957546.jpg")no-repeat;
-	background-size:cover;
-	height:500px;
-}
-
-
-
-.about .container {
-  padding: 6px 0;
-}
-
-.about {
-  background-color: #fff;
-}
-
-.about h2 {
-  color: #264d7e;
-  
-}
-
-.about h4 {
-  color: #264d7e;
-}
-
-.about p {
-  color: #333;
-  font-size:17px;
-}
-
-.about img {
-  border-radius: 15%;
-  float: left;
-  margin: 50px 40px;
-  }
-.about img-circle {
-    border-radius: 50%;
-}
-  
-.about-text {
-  margin: 0;
-  overflow: hidden;
-  padding: 0 10px;
-}
-
-/* EDUCATION*/
-
-.Education{
+span h2
+{
 	text-align:center;
-}
-
-.Education h2 {
-	margin-top: 30;
-	color: #264d7e;
-}
-
-.Education p {
-  font-size:17px;
+	vertical-align:middle;
+	background-color:#F5DEB3;
+	height:40px;
+	line-height: normal; 
+	
 }
 
 
-
-
-
-
-
-/* contact */
-
-.contact {
-  background-color: #fff;
-  padding-bottom: 20px;
+section p{
+	text-align:center;
+	font-size:16px;
+	color:#ffffff;
+	
+}
+.edudetails section
+{
+	background:url("https://drive.google.com/open?id=0BwbRmlLGUgQhbnV6STRabmN1djg")no-repeat;
+	background-size:cover auto;
+	height:auto;
+	opacity:.10px;
 }
 
-.contact .container {
-  text-align: center;
-}
 
-.contact h2 {
-  margin-top: 30;
-  color: #264d7e;
-}
 
-.contact a {
-  background-color: #fff;
-  color: #333;
-  display:inline-block;
-  margin: 20px;
-  padding: 20px;
+.contact a 
+{
+  color: #9f9e99;
   text-decoration: none;
-  
-  width: 50px;
 }
 
 .contact a:hover {
   transform: scale(1.1);
-  color: #d99679;
+  color: #DB6A50;
 }
 
 
 
 
-/* footer */
 
-footer {
-  background-color: #1295C9;
-  padding-top:10px;
+.footer h3
+{
+	text-align:center;
+	background-color:#F5DEB3;
+	height:auto;
+	line-height: normal;
+	color:#000000;
 }
 
 
-footer p {
-  color: #fff;
-  margin: 0;
-  padding-bottom: 20px;
-  text-align:center
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
