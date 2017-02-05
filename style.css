@@ -1,0 +1,104 @@
+body
+{
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 15px;
+	line-height: 1.5; 
+	background: #EAEDED;
+}
+
+.jumbotron
+{
+	background: #35424a;
+  	color: #ffffff;
+}
+
+.nav a
+{
+	color: #e8491d;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.nav a:hover
+{
+color: #ffffff;
+font-weight: bold;
+}
+
+#About
+{
+	margin-top: -29px;
+	
+	
+}
+
+.col-sm-4 img
+{
+	height: 300px;
+	width: 350px;
+	
+}
+
+
+.col-sm-8 
+{
+	margin-left: -15px;
+	background: #F0B27A;
+	padding: 40px;
+	color: #ffffff;
+	text-align: center;
+}
+
+strong
+{
+	color: #000000;
+}
+
+#Protfolio
+{
+	margin-top: 10px;
+}
+
+.thumbnail
+{
+ border: 3px solid #35424a;
+}
+
+.caption 
+{
+	background: #F0B27A;
+  	color: #ffffff;
+}
+
+#Contact .col-sm-3 
+{
+	background-color: #F0B27A;
+	padding: 30px;
+}
+
+#Contact .col-sm-12 
+{
+	background-color: #F0B27A;
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#Contact a 
+{
+  color: #35424a;
+  text-decoration: none;
+}
+
+#Contact a:hover {
+  transform: scale(1.1);
+  color: #ffffff;
+}
+
+
+.footer
+{
+	background: #35424a;
+  	color: #ffffff;
+  	padding: 10px;
+}
